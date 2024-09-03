@@ -1,0 +1,5 @@
+C:\Users\j02\Documents\JoaoHenry2b\LogicaDeProgramação\C#\listaDeExerc3\QT1\obj\Debug\net8.0\QT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\JoaoHenry2b\LogicaDeProgramação\C#\listaDeExerc3\QT1\obj\Debug\net8.0\QT1.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\JoaoHenry2b\LogicaDeProgramação\C#\listaDeExerc3\QT1\obj\Debug\net8.0\QT1.AssemblyInfo.cs
+C:\Users\j02\Documents\JoaoHenry2b\LogicaDeProgramação\C#\listaDeExerc3\QT1\obj\Debug\net8.0\QT1.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\JoaoHenry2b\LogicaDeProgramação\C#\listaDeExerc3\QT1\obj\Debug\net8.0\QT1.sourcelink.json
